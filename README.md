@@ -1,16 +1,49 @@
-## Hi there 👋
-
 <!--
-**AjagTerbang/AjagTerbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey there! Welcome to my GitHub 👋
 -->
+
+<h1 align="center">👋 Hi, I'm Haikal</h1>
+<p align="center">
+  <em>Backend Developer | Full Stack when needed</em>
+</p>
+
+---
+
+### ⚡ About Me
+
+- 💻 Passionate about **Backend Development**, API design, and system scalability  
+- 🧩 Occasionally jump into **Full Stack** work when the world demands it  
+- 🚀 Experience with **Node.js, Odoo**, and **AI/ML integrations**  
+- 🌱 Constantly learning: Cloud Dev, System Design, and Software Architecture  
+- 💬 I love exploring backend logic, optimization, and automation
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Java` `Kotlin` `Python` `JavaScript` `SQL`
+
+**Frameworks / Tools:**  
+`Express.js` `Hapi.js` `Flask` `TensorFlow` `Odoo`
+
+**Databases:**  
+`PostgreSQL` `MySQL` `SQLite`
+
+**Other Tools & Skills:**  
+ `GitHub Actions` `PM2` `Nginx` `CameraX` `YOLOv8` `PaddleOCR`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haikal&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haikal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haikal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---

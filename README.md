@@ -12,7 +12,7 @@ Hey there! Welcome to my GitHub 👋
 ### ⚡ About Me
 
 - 💻 Passionate about **Backend Development**, API design, and system scalability  
-- 🧩 Occasionally jump into **Full Stack** work when the world demands it  
+- 🧩 Occasionally jump into **Full Stack** work when the demands it  
 - 🚀 Experience with **Node.js, Odoo**, and **AI/ML integrations**  
 - 🌱 Constantly learning: Cloud Dev, System Design, and Software Architecture  
 - 💬 I love exploring backend logic, optimization, and automation

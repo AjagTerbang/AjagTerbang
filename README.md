@@ -3,9 +3,6 @@ Hey there! Welcome to my GitHub 👋
 -->
 
 <h1 align="center">👋 Hi, I'm Haikal</h1>
-<p align="center">
-  <em>Backend Developer | Full Stack when needed</em>
-</p>
 
 ---
 
